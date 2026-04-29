@@ -1,7 +1,7 @@
 # Fitness_club_chain_case
 The aim of this research is to track the behavior of different customer segments, to estimate the dynamics of the customer activity and financial result of the fitness club chain
 
-ПРОЕКТ: Анализ клиентской базы и финансовых показателей сети фитнес-клубов
+ПРОЕКТ: АНАЗИЗ КЛИЕНТСКОЙ БАЗЫ И ФИНАНСОВЫХ ПОКАЗАТЕЛЕЙ СЕТИ ФИТНЕС-КЛУБОВ 
 
 Цель проекта:
 Оценить динамику пользовательской базы, активность клиентов и финансовые результаты сети фитнес-клубов, определить влияние маркетинговой акции и особенности ключевых клиентских сегментов.
